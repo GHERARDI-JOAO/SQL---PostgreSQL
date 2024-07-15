@@ -68,10 +68,10 @@ Esta query identifica quais dias da semana têm maior número de visitas ao site
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/GHERARDI-JOAO/SQL---PostgreSQL.git
 2. Navegue até a pasta do projeto:
    ```sh
-   cd nome-do-repositorio.git
+   cd SQL---PostgreSQL.git
 3. Execute as queries SQL fornecidas para gerar os dados necessários para o dashboard.
 
 ## Contribuição 
